@@ -16,7 +16,7 @@ The analysis study includes the following:
 
 ## Results
 
-Multiple Linear Regression Analysis
+### Multiple Linear Regression Analysis
 
 ![](Images/MultipleLinearRegression.png)
 
@@ -26,3 +26,6 @@ Multiple Linear Regression Analysis
 
 * The R-squared of the model is 0.7149, which means that about 71% of the mpg (dependent variable) can be predicted by this linear model. Therefore, we can say that this model effectively predict the mpg of MechaCar prototypes
  
+### Summary Statistics on Suspension Coils
+
+
