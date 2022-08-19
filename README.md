@@ -28,4 +28,23 @@ The analysis study includes the following:
  
 ### Summary Statistics on Suspension Coils
 
+The total summary statistics of the suspension coil’s PSI shows that for all manufacturing lots in total the desigs specification is met since the variance of the total data is 62.3. See table below
+
+![] (Images/total_summary.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
