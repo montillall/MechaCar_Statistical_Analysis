@@ -32,7 +32,7 @@ The total summary statistics of the suspension coil’s psi shows that for all m
 
 ![](Images/total_summary.png)
 
-The summary statistics by manufacturing lots shows that lot1 and lot2 meet the design specification (variance < 100 psi) while lot3 does not meet design specification, variance is 170.3 psi. 
+The summary statistics by manufacturing lots shows that Lot1 and Lot2 meet the design specification (variance < 100 psi) while Lot3 does not meet design specification, variance is 170.3 psi. 
 
 ![](Images/lot_summary.png)
 
