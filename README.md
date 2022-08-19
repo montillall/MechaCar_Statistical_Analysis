@@ -58,6 +58,7 @@ On the other hand, for Lot3 the p-value (0.04168) is less than assumed significa
 There are many things that can be compare when purchasing a car, one of those that buyers should consider when comparing cars would be safety systems. In order to study MechaCars vs competitors, one safety system could be air bags activation in collision. 
 
 Null Hypothesis: MechaCars average air bag activation is similar to competitor vehicles.
+
 Alternative Hypothesis: MechaCars average air bag activation is significantly different than competitor vehicles.
 
 Statitstical test to use is two sample t-test
