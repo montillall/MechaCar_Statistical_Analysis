@@ -55,7 +55,7 @@ On the other hand, for Lot3 the p-value (0.04168) is less than assumed significa
 
 ## Study Design: MechaCar vs Competition
 
-
+There are many things that can be compare when purchasing a car, one of those that buyers should consider when comparing cars would be safety systems.
 
 
 
