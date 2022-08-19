@@ -53,7 +53,7 @@ On the other hand, for Lot3 the p-value (0.04168) is less than assumed significa
 ![](Images/Lot3_Ttest.png)
 
 
-
+## Study Design: MechaCar vs Competition
 
 
 
