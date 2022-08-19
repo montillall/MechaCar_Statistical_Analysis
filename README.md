@@ -28,11 +28,11 @@ The analysis study includes the following:
  
 ### Summary Statistics on Suspension Coils
 
-The total summary statistics of the suspension coil’s PSI shows that for all manufacturing lots in total the design specification is met since the variance of the total data is 62.3 psi. See table below
+The total summary statistics of the suspension coil’s psi shows that for all manufacturing lots in total the design specification is met since the variance of the total data is 62.3 psi. See table below
 
 ![](Images/total_summary.png)
 
-The summary statistcs by manufacturing lots shows that lot1 and lot2 meet the design specification (variance < 100 psi) while lot3 does not meet design specification, variance is 170.3 psi. 
+The summary statistics by manufacturing lots shows that lot1 and lot2 meet the design specification (variance < 100 psi) while lot3 does not meet design specification, variance is 170.3 psi. 
 
 ![](Images/lot_summary.png)
 
