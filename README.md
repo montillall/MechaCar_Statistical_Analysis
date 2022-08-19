@@ -14,3 +14,5 @@ The analysis study includes the following:
 
 * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, write a summary interpretation of the findings.
 
+## Results
+
