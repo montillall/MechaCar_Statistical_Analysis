@@ -36,8 +36,21 @@ The summary statistics by manufacturing lots shows that Lot1 and Lot2 meet the d
 
 ![](Images/lot_summary.png)
 
+### T-Tests on Suspension Coils
 
+The T-test across all manufacturing lots shows that there is no statistical difference with respect to the population mean, the p-value is greater than assumed significance level (0.05), therefore doesn't support to reject the null hypothesis. See results below
 
+![](Images/AllLots_Ttest.png)
+
+The T-tests run for each Lot shows that for Lot1 and Lot2, there is no statistical difference with respect to the population mean, p-values are greater than assumed significance level (0.05), therefore doesn't support to reject the null hypothesis. See results below
+
+![](Images/Lot1_Ttest.png)
+
+![](Images/Lot2_Ttest.png)
+
+On the other hand, for Lot3 the p-value (0.04168) is less than assumed significance level, which means there is statistical difference therefore supporting to reject the null hypothesis. See below
+
+![](Images/Lot3_Ttest.png)
 
 
 
