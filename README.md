@@ -18,4 +18,4 @@ The analysis study includes the following:
 
 Multiple Linear Regression Analysis
 
-![] (Images/MultipleRegressionStudy.png)
+![] (Images/MultipleRegressionAnalysis.png)
